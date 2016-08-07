@@ -1,0 +1,1 @@
+This folder contains audio projects created for Mbed (LPC1768) implemented with fixed-point math
